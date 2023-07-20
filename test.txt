@@ -1,3 +1,2 @@
-Hello nilesh wankhad e
-I am learning git 
-welcome to nilesh coder 
+Hello coder,
+welcome to nilesh coder
